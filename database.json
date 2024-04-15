@@ -1,0 +1,74 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "sname": "Leo",
+            "sage": "20",
+            "sphone": "1111111111",
+            "sdept": "Bca"
+        },
+        {
+            "id": "2",
+            "sname": "prithyu",
+            "sage": "20",
+            "sphone": "22222222222",
+            "sdept": "bca"
+        },
+ {
+            "id": "3",
+            "sname": "Badhra",
+            "sage": "21",
+            "sphone": "555555111",
+            "sdept": "Bca"
+        },
+        {
+            "id": "4",
+            "sname": "Dhilna",
+            "sage": "20",
+            "sphone": "66667222222",
+            "sdept": "bca"
+        },
+{
+            "id": "5",
+            "sname": "Anfas",
+            "sage": "20",
+            "sphone": "888888811",
+            "sdept": "ca"
+        },
+        {
+            "id": "6",
+            "sname": "rahul",
+            "sage": "20",
+            "sphone": "999999222",
+            "sdept": "bcom"
+        },
+{
+            "id": "7",
+            "sname": "adith",
+            "sage": "20",
+            "sphone": "188888111",
+            "sdept": "Multimedia"
+        },
+        {
+            "id": "8",
+            "sname": "hari",
+            "sage": "19",
+            "sphone": "8888666652",
+            "sdept": "bca"
+        },
+{
+            "id": "9",
+            "sname": "ashik",
+            "sage": "20",
+            "sphone": "100000001",
+            "sdept": "Bsc cs"
+        },
+        {
+            "id": "10",
+            "sname": "Abhi",
+            "sage": "20",
+            "sphone": "7432246778",
+            "sdept": "Fashion"
+        }
+    ]
+}
